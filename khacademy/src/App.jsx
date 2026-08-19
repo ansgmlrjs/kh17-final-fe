@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <h1>hi</h1>
+      <h2>moon에서 ㅁ나든 코드</h2>
     </>
   )
 }
